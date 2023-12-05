@@ -1,5 +1,6 @@
 import numpy as np
 import math as mt
+# basic integration
 
 class Integrator:
     def __init__(self, xMin, xMax, N):
